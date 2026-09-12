@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 218" width="600" height="218" fill="none">
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="3" dy="5" stdDeviation="3" flood-color="#000" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+  <!-- "Why" Text -->
+  <text x="50" y="85" font-family="'Fredoka', 'Plus Jakarta Sans', Arial, sans-serif" font-size="82" font-weight="900" fill="#1e1035" filter="url(#shadow)" letter-spacing="1">Why</text>
+  
+  <!-- "Furry Friends?" Text -->
+  <text x="50" y="175" font-family="'Fredoka', 'Plus Jakarta Sans', Arial, sans-serif" font-size="78" font-weight="900" fill="#e67e22" filter="url(#shadow)" letter-spacing="1">Furry Friends?</text>
+  
+  <!-- Decorative Paw Prints -->
+  <g transform="translate(480, 25) scale(0.65)" fill="#ffd166">
+    <ellipse cx="24" cy="38" rx="14" ry="11"/>
+    <ellipse cx="10" cy="22" rx="5" ry="7.5" transform="rotate(-15 10 22)"/>
+    <ellipse cx="20" cy="15" rx="5" ry="8" transform="rotate(-5 20 15)"/>
+    <ellipse cx="31" cy="15" rx="5" ry="8" transform="rotate(5 31 15)"/>
+    <ellipse cx="40" cy="23" rx="5" ry="7.5" transform="rotate(18 40 23)"/>
+  </g>
+  <g transform="translate(520, 110) scale(0.5)" fill="#2b1747" opacity="0.3">
+    <ellipse cx="24" cy="38" rx="14" ry="11"/>
+    <ellipse cx="10" cy="22" rx="5" ry="7.5" transform="rotate(-15 10 22)"/>
+    <ellipse cx="20" cy="15" rx="5" ry="8" transform="rotate(-5 20 15)"/>
+    <ellipse cx="31" cy="15" rx="5" ry="8" transform="rotate(5 31 15)"/>
+    <ellipse cx="40" cy="23" rx="5" ry="7.5" transform="rotate(18 40 23)"/>
+  </g>
+</svg>
