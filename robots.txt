@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://raghavkhandal72-coder.github.io/furry-friends/sitemap.xml
+Sitemap: http://furryfriends.servehttp.com/sitemap.xml
